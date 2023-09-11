@@ -1,6 +1,6 @@
 
 
-export default function GithubCode() {
+export default function GithubCodeCard() {
     return (
         <>
             GithubCode
